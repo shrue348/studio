@@ -1,0 +1,18 @@
+@media (max-width: 1200px) {
+	.header__top > .col-md-4:first-child,
+	.header__top > .col-md-4:last-child { width: 37%; }
+	.header__top > .col-md-4:nth-child(2) { width: 26%; }
+	.logo { margin-top: 35px;}
+}
+ 
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+ 
+@media (max-width: 767px) {
+
+}
+ 
+@media (max-width: 480px) {
+
+}
